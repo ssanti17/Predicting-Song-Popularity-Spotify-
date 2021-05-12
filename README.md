@@ -15,4 +15,6 @@ If you rather not redo this data processing, then feel free to run any of the mo
 In most cases in each individual model construction, we used the name spotify to refer to the `spotify_final.csv`. 
 In order to make sure that the data are correct. Before running the code that trains the model, open a new cell, enter and run:
 `spotify = pd.read_csv(‘spotify_final.csv’)`
-There are a total of three ipynb files containing the models that we used (namely, LDA, logistics regression, CART, random forest, etc).
+
+
+The three folders `Data`, `Data Processing and Model Building`, and `Pdfs` have our data, models, and pdf versions of our notebooks. In the latter two folders, you will find the a total of four ipynb or pdf files containing the models that we used (namely, LDA, logistics regression, CART, random forest, etc).
