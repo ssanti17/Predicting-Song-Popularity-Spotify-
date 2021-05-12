@@ -1,6 +1,6 @@
 # Predicting Song Popularity Using Spotify Data
 
-__Project by Sarah Santiago, Shishi Feng, Simran Regmi, Winnie Lu for IEOR 142___
+__Project by Sarah Santiago, Shishi Feng, Simran Regmi, Winnie Lu for IEOR 142__
 
 ---
 
